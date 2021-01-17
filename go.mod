@@ -1,4 +1,4 @@
-module github.com/ltacker/keeper-generator
+module github.com/ltacker/protoc-gen-keeper
 
 go 1.15
 
